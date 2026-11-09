@@ -81,7 +81,7 @@
         "wk:page":"Zerouala"
     },
     "wof:country":"DZ",
-    "wof:geomhash":"746294ee634275bf914fdd5b3ed38c24",
+    "wof:geomhash":"2144e19d1ef91d6481ce4e2e55ea99d8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -106,5 +106,5 @@
     -0.52175,
     35.24232999999999
 ],
-  "geometry": {"coordinates":[-0.52175,35.24232999999999],"type":"Point"}
+  "geometry": {"coordinates":[-0.52175,35.24233],"type":"Point"}
 }

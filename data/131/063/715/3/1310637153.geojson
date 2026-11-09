@@ -73,7 +73,7 @@
         "wk:page":"Khelil%2C_Algeria"
     },
     "wof:country":"DZ",
-    "wof:geomhash":"b35379e83b7dab1a6d9d69ad1e718d8c",
+    "wof:geomhash":"473bc52b20ff40d7016e30e31a998b9f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -98,5 +98,5 @@
     5.02339,
     36.17912000000001
 ],
-  "geometry": {"coordinates":[5.02339,36.17912000000001],"type":"Point"}
+  "geometry": {"coordinates":[5.02339,36.17912],"type":"Point"}
 }

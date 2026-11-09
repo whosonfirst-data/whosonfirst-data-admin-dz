@@ -41,7 +41,7 @@
     },
     "wof:country":"DZ",
     "wof:created":1469052116,
-    "wof:geomhash":"925a173675625eb0bcc19e0d34b2d102",
+    "wof:geomhash":"bb96f87831243e53fafaf290486eb0bf",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -66,5 +66,5 @@
     -0.5295795,
     35.771647
 ],
-  "geometry": {"coordinates":[-0.5295795,35.771647],"type":"Point"}
+  "geometry": {"coordinates":[-0.529579,35.771647],"type":"Point"}
 }

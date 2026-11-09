@@ -74,7 +74,7 @@
         "wk:page":"Ma%C3%A2fa"
     },
     "wof:country":"DZ",
-    "wof:geomhash":"e10e6b583768e2cc74e186bddda34fa4",
+    "wof:geomhash":"0940e1dac3233a263d2791cea8c575c3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -99,5 +99,5 @@
     5.89764,
     35.26345999999999
 ],
-  "geometry": {"coordinates":[5.89764,35.26345999999999],"type":"Point"}
+  "geometry": {"coordinates":[5.89764,35.26346],"type":"Point"}
 }

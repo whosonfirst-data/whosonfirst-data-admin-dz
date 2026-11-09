@@ -40,7 +40,7 @@
         "gn:id":2581090
     },
     "wof:country":"DZ",
-    "wof:geomhash":"d1004e290fd2036672e79afa1402e4a7",
+    "wof:geomhash":"2ea0084da16cad881cc0a6ef0748b9c8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -65,5 +65,5 @@
     0.63,
     35.53805999999999
 ],
-  "geometry": {"coordinates":[0.63,35.53805999999999],"type":"Point"}
+  "geometry": {"coordinates":[0.63,35.53806],"type":"Point"}
 }

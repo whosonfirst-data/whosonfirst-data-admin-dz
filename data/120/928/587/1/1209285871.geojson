@@ -77,7 +77,7 @@
         "wk:page":"Mellakou"
     },
     "wof:country":"DZ",
-    "wof:geomhash":"e77655d406ab9e327aef6331da598621",
+    "wof:geomhash":"ca0d4d39518a588c47997dda37a560e4",
     "wof:hierarchy":[
         {
             "country_id":85632451,
@@ -100,5 +100,5 @@
     1.23436,
     35.25275999999999
 ],
-  "geometry": {"coordinates":[1.23436,35.25275999999999],"type":"Point"}
+  "geometry": {"coordinates":[1.23436,35.25276],"type":"Point"}
 }

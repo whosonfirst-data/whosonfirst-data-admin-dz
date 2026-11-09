@@ -74,7 +74,7 @@
         "wk:page":"Birtouta"
     },
     "wof:country":"DZ",
-    "wof:geomhash":"ff21dd910ab214b00254a980f2dbb37f",
+    "wof:geomhash":"9bdb910a6345ac7df3dc162e82e37d2a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -99,5 +99,5 @@
     3.0,
     36.64515
 ],
-  "geometry": {"coordinates":[3.0,36.64515],"type":"Point"}
+  "geometry": {"coordinates":[3,36.64515],"type":"Point"}
 }

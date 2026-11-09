@@ -78,7 +78,7 @@
         "wk:page":"El_Kouif"
     },
     "wof:country":"DZ",
-    "wof:geomhash":"53e30f96bc6484ff2a1fd3a27afc8b90",
+    "wof:geomhash":"012c2a52713af762e50d319f118aaa47",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -103,5 +103,5 @@
     8.31943,
     35.50199999999999
 ],
-  "geometry": {"coordinates":[8.31943,35.50199999999999],"type":"Point"}
+  "geometry": {"coordinates":[8.31943,35.502],"type":"Point"}
 }

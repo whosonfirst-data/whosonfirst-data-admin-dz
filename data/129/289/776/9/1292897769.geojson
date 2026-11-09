@@ -71,7 +71,7 @@
         "wk:page":"Sirat"
     },
     "wof:country":"DZ",
-    "wof:geomhash":"e41b85e9c971a6008eda5a29c861aad2",
+    "wof:geomhash":"b87ea958e71fcd5d890756b11fd11899",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -96,5 +96,5 @@
     0.19046,
     35.78035999999999
 ],
-  "geometry": {"coordinates":[0.19046,35.78035999999999],"type":"Point"}
+  "geometry": {"coordinates":[0.19046,35.78036],"type":"Point"}
 }

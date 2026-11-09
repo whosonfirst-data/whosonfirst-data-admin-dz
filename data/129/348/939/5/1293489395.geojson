@@ -80,7 +80,7 @@
         "wk:page":"El_Kantara"
     },
     "wof:country":"DZ",
-    "wof:geomhash":"f5aecb4c49737c885573de65666eed8c",
+    "wof:geomhash":"58fc1c8b565dc3d15d9b9d018a3b60c9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -105,5 +105,5 @@
     5.70585,
     35.22024000000001
 ],
-  "geometry": {"coordinates":[5.70585,35.22024000000001],"type":"Point"}
+  "geometry": {"coordinates":[5.70585,35.22024],"type":"Point"}
 }

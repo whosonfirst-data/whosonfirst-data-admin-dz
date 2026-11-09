@@ -74,7 +74,7 @@
         "wk:page":"Benzouh"
     },
     "wof:country":"DZ",
-    "wof:geomhash":"33489232fbf77cd7f3652f5977d80c66",
+    "wof:geomhash":"228930c8e78f07601dfdcd6530ad08e3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -99,5 +99,5 @@
     4.02034,
     35.42084000000001
 ],
-  "geometry": {"coordinates":[4.02034,35.42084000000001],"type":"Point"}
+  "geometry": {"coordinates":[4.02034,35.42084],"type":"Point"}
 }

@@ -74,7 +74,7 @@
         "wk:page":"Matemore"
     },
     "wof:country":"DZ",
-    "wof:geomhash":"a24f0d09d7005f3259cfab28b7d14a8b",
+    "wof:geomhash":"b064363ff447d60a24e077122b10f9a0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -99,5 +99,5 @@
     0.21269,
     35.32539000000001
 ],
-  "geometry": {"coordinates":[0.21269,35.32539000000001],"type":"Point"}
+  "geometry": {"coordinates":[0.21269,35.32539],"type":"Point"}
 }

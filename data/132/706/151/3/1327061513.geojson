@@ -80,7 +80,7 @@
         "wk:page":"Bordj_El_Emir_Abdelkader"
     },
     "wof:country":"DZ",
-    "wof:geomhash":"e910e3ef00c8688d703d11932da5794f",
+    "wof:geomhash":"14b0f5fae92a8e59f9ed0fb7b136ca3f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -105,5 +105,5 @@
     2.27028,
     35.86582999999999
 ],
-  "geometry": {"coordinates":[2.27028,35.86582999999999],"type":"Point"}
+  "geometry": {"coordinates":[2.27028,35.86583],"type":"Point"}
 }

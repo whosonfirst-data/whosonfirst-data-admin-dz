@@ -81,7 +81,7 @@
         "wk:page":"B%C3%A9ni_Messous"
     },
     "wof:country":"DZ",
-    "wof:geomhash":"0a866a8e09c4528d52c9a1360bfa993f",
+    "wof:geomhash":"43ba66d6eb026837ba5a783c72bababf",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -106,5 +106,5 @@
     2.97504,
     36.77914000000001
 ],
-  "geometry": {"coordinates":[2.97504,36.77914000000001],"type":"Point"}
+  "geometry": {"coordinates":[2.97504,36.77914],"type":"Point"}
 }

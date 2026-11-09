@@ -80,7 +80,7 @@
         "wk:page":"Bordj_Emir_Khaled"
     },
     "wof:country":"DZ",
-    "wof:geomhash":"9d04383a480ef3999dedcb69d94f6fb0",
+    "wof:geomhash":"7be14ba0459da7d12a4d89562579e737",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -105,5 +105,5 @@
     2.20444,
     36.12139000000001
 ],
-  "geometry": {"coordinates":[2.20444,36.12139000000001],"type":"Point"}
+  "geometry": {"coordinates":[2.20444,36.12139],"type":"Point"}
 }

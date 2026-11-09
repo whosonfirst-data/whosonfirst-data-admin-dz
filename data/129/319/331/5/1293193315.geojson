@@ -79,7 +79,7 @@
         "wk:page":"Seghouane"
     },
     "wof:country":"DZ",
-    "wof:geomhash":"074316eebd88c1001d16b3496c34bf8e",
+    "wof:geomhash":"145891174b24ffd8f7c5d510e3b5d2d5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -104,5 +104,5 @@
     2.90429,
     36.00129000000001
 ],
-  "geometry": {"coordinates":[2.90429,36.00129000000001],"type":"Point"}
+  "geometry": {"coordinates":[2.90429,36.00129],"type":"Point"}
 }

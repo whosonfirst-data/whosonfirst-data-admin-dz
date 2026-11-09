@@ -71,7 +71,7 @@
         "wk:page":"Souaflia"
     },
     "wof:country":"DZ",
-    "wof:geomhash":"c1f7048409472133d0a5567053149ba7",
+    "wof:geomhash":"7eba274905c917b359605c7a2ac6c056",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -96,5 +96,5 @@
     0.3254,
     35.85312000000001
 ],
-  "geometry": {"coordinates":[0.3254,35.85312000000001],"type":"Point"}
+  "geometry": {"coordinates":[0.3254,35.85312],"type":"Point"}
 }

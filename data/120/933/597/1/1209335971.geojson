@@ -67,7 +67,7 @@
         "wk:page":"Mesra"
     },
     "wof:country":"DZ",
-    "wof:geomhash":"772496db503903efe029a63d6fa2810d",
+    "wof:geomhash":"38b7c70a8e59ad76bfd14d3af8cc25db",
     "wof:hierarchy":[
         {
             "country_id":85632451,
@@ -90,5 +90,5 @@
     0.16838,
     35.83795999999999
 ],
-  "geometry": {"coordinates":[0.16838,35.83795999999999],"type":"Point"}
+  "geometry": {"coordinates":[0.16838,35.83796],"type":"Point"}
 }

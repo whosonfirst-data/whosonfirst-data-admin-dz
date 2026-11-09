@@ -82,7 +82,7 @@
         "wk:page":"Lahlef"
     },
     "wof:country":"DZ",
-    "wof:geomhash":"cb40d122bb1c7f31bc7fbf2d7721d25a",
+    "wof:geomhash":"14b229054b4615b4715015a0b0bbc97a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -107,5 +107,5 @@
     0.97965,
     35.89400999999999
 ],
-  "geometry": {"coordinates":[0.97965,35.89400999999999],"type":"Point"}
+  "geometry": {"coordinates":[0.97965,35.89401],"type":"Point"}
 }

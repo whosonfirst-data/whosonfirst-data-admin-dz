@@ -77,7 +77,7 @@
         "wk:page":"Souk_El_Khemis"
     },
     "wof:country":"DZ",
-    "wof:geomhash":"9a45e43f20e2126734c6211891c947fd",
+    "wof:geomhash":"25c1adeb3c33cf6ee03278c8ee270f5b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -102,5 +102,5 @@
     3.63322,
     36.39149000000001
 ],
-  "geometry": {"coordinates":[3.63322,36.39149000000001],"type":"Point"}
+  "geometry": {"coordinates":[3.63322,36.39149],"type":"Point"}
 }

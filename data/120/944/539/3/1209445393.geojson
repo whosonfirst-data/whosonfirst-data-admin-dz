@@ -77,7 +77,7 @@
         "wk:page":"Bordj_Omar_Driss"
     },
     "wof:country":"DZ",
-    "wof:geomhash":"a57e774a11c67ed8bd094ac2b83a28d4",
+    "wof:geomhash":"814dce5eb05c4349330faba9f925c614",
     "wof:hierarchy":[
         {
             "country_id":85632451,
@@ -100,5 +100,5 @@
     6.81856,
     28.12024000000001
 ],
-  "geometry": {"coordinates":[6.81856,28.12024000000001],"type":"Point"}
+  "geometry": {"coordinates":[6.81856,28.12024],"type":"Point"}
 }

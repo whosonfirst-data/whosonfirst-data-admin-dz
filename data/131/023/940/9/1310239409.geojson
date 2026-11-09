@@ -77,7 +77,7 @@
         "wk:page":"Nakhla%2C_Algeria"
     },
     "wof:country":"DZ",
-    "wof:geomhash":"4694804192603fa1c7c4d904c6be20b0",
+    "wof:geomhash":"e3ad48070e30a9f8e1c02e5bd6e95bac",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -102,5 +102,5 @@
     6.94838,
     33.27520999999999
 ],
-  "geometry": {"coordinates":[6.94838,33.27520999999999],"type":"Point"}
+  "geometry": {"coordinates":[6.94838,33.27521],"type":"Point"}
 }

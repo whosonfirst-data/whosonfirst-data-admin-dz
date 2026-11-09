@@ -39,7 +39,7 @@
         "wk:page":"Oufrane"
     },
     "wof:country":"DZ",
-    "wof:geomhash":"d7007d8ec67210a3ecc47b42b6a5bb29",
+    "wof:geomhash":"349f6439c580c74bb3dbf8ac57145156",
     "wof:hierarchy":[
         {
             "country_id":85632451,
@@ -62,5 +62,5 @@
     0.18428,
     28.54009000000001
 ],
-  "geometry": {"coordinates":[0.18428,28.54009000000001],"type":"Point"}
+  "geometry": {"coordinates":[0.18428,28.54009],"type":"Point"}
 }

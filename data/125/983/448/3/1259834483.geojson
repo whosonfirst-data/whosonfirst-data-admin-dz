@@ -74,7 +74,7 @@
         "wk:page":"Bou_Henni"
     },
     "wof:country":"DZ",
-    "wof:geomhash":"952f01db6b36245ea594f0b71797eddd",
+    "wof:geomhash":"1b91323b8a989d8e066002396920a11d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -99,5 +99,5 @@
     -0.08953,
     35.56267000000001
 ],
-  "geometry": {"coordinates":[-0.08953,35.56267000000001],"type":"Point"}
+  "geometry": {"coordinates":[-0.08953,35.56267],"type":"Point"}
 }

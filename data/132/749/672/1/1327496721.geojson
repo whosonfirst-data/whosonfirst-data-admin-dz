@@ -78,7 +78,7 @@
         "wk:page":"Oued_Ghir"
     },
     "wof:country":"DZ",
-    "wof:geomhash":"6c9a034b253367b569de4dfd6f893d14",
+    "wof:geomhash":"08421e3fe6f9a10d071df4a090202723",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -103,5 +103,5 @@
     4.97731,
     36.71044000000001
 ],
-  "geometry": {"coordinates":[4.97731,36.71044000000001],"type":"Point"}
+  "geometry": {"coordinates":[4.97731,36.71044],"type":"Point"}
 }

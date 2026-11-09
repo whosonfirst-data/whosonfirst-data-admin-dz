@@ -71,7 +71,7 @@
         "wk:page":"Mena%C3%A2"
     },
     "wof:country":"DZ",
-    "wof:geomhash":"2c265282ae0bb597fa4b301220e3468b",
+    "wof:geomhash":"c2d8bc31f006be9b7a230ada1cca1608",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -96,5 +96,5 @@
     6.00422,
     35.17769000000001
 ],
-  "geometry": {"coordinates":[6.00422,35.17769000000001],"type":"Point"}
+  "geometry": {"coordinates":[6.00422,35.17769],"type":"Point"}
 }

@@ -76,7 +76,7 @@
         "wk:page":"Touahria"
     },
     "wof:country":"DZ",
-    "wof:geomhash":"a7a6860456ba17905367b43021df3a90",
+    "wof:geomhash":"da0258af45f93afa47ef841713ea629c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -101,5 +101,5 @@
     0.21026,
     35.81034000000001
 ],
-  "geometry": {"coordinates":[0.21026,35.81034000000001],"type":"Point"}
+  "geometry": {"coordinates":[0.21026,35.81034],"type":"Point"}
 }

@@ -80,7 +80,7 @@
         "wk:page":"Sidi_Hamadouche"
     },
     "wof:country":"DZ",
-    "wof:geomhash":"8df5e7b293bfdee8e296a47113d331ac",
+    "wof:geomhash":"bb1d056f0570bffe951952b1db27e5a0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -105,5 +105,5 @@
     -0.54844,
     35.29924000000001
 ],
-  "geometry": {"coordinates":[-0.54844,35.29924000000001],"type":"Point"}
+  "geometry": {"coordinates":[-0.54844,35.29924],"type":"Point"}
 }

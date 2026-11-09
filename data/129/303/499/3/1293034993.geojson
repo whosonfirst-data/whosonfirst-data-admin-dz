@@ -77,7 +77,7 @@
         "wk:page":"Beni_Rached%2C_Chlef"
     },
     "wof:country":"DZ",
-    "wof:geomhash":"10c980cff3025dae121d695257b6544d",
+    "wof:geomhash":"bb0860b6d432bfd5712d8bc82d610ad2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -102,5 +102,5 @@
     1.52185,
     36.27679000000001
 ],
-  "geometry": {"coordinates":[1.52185,36.27679000000001],"type":"Point"}
+  "geometry": {"coordinates":[1.52185,36.27679],"type":"Point"}
 }

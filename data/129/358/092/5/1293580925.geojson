@@ -79,7 +79,7 @@
         "wk:page":"Hassi_Mam%C3%A8che"
     },
     "wof:country":"DZ",
-    "wof:geomhash":"a41beef2e55b04284a51605b726d6c56",
+    "wof:geomhash":"143e2a907647fd7ed9b78103e9cddb0b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -104,5 +104,5 @@
     0.07329,
     35.86049000000001
 ],
-  "geometry": {"coordinates":[0.07329,35.86049000000001],"type":"Point"}
+  "geometry": {"coordinates":[0.07329,35.86049],"type":"Point"}
 }

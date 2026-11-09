@@ -76,7 +76,7 @@
         "wk:page":"Ouled_Derradj"
     },
     "wof:country":"DZ",
-    "wof:geomhash":"fb67760ff1b0fca07ae16620be1abb24",
+    "wof:geomhash":"4859435e94cd2c9823563b5962bffbaf",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -101,5 +101,5 @@
     4.77596,
     35.68937000000001
 ],
-  "geometry": {"coordinates":[4.77596,35.68937000000001],"type":"Point"}
+  "geometry": {"coordinates":[4.77596,35.68937],"type":"Point"}
 }

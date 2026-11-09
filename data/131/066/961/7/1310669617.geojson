@@ -89,7 +89,7 @@
         "wk:page":"Hassi_Bahbah"
     },
     "wof:country":"DZ",
-    "wof:geomhash":"afe3b815e7d8b5810037d50ed65eea3a",
+    "wof:geomhash":"57ea61353255b46cd8ae15befac5745e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -114,5 +114,5 @@
     3.0299,
     35.07109000000001
 ],
-  "geometry": {"coordinates":[3.0299,35.07109000000001],"type":"Point"}
+  "geometry": {"coordinates":[3.0299,35.07109],"type":"Point"}
 }

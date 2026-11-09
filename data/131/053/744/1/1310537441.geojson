@@ -80,7 +80,7 @@
         "wk:page":"Cheraia"
     },
     "wof:country":"DZ",
-    "wof:geomhash":"963de1eeaf2600223aad7ff2bdaec178",
+    "wof:geomhash":"f69ed36c09884020596d186664aa0361",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -105,5 +105,5 @@
     6.51359,
     37.00174000000001
 ],
-  "geometry": {"coordinates":[6.51359,37.00174000000001],"type":"Point"}
+  "geometry": {"coordinates":[6.51359,37.00174],"type":"Point"}
 }

@@ -80,7 +80,7 @@
         "wk:page":"A%C3%AFn_Nou%C3%AFssy"
     },
     "wof:country":"DZ",
-    "wof:geomhash":"4355259e80605eeccbfaf9d410e64528",
+    "wof:geomhash":"d627f7468498f36853bef9bdbaea6653",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -105,5 +105,5 @@
     0.04529,
     35.80432000000001
 ],
-  "geometry": {"coordinates":[0.04529,35.80432000000001],"type":"Point"}
+  "geometry": {"coordinates":[0.04529,35.80432],"type":"Point"}
 }

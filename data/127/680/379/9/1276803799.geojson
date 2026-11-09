@@ -74,7 +74,7 @@
         "wk:page":"Zitouna%2C_Skikda"
     },
     "wof:country":"DZ",
-    "wof:geomhash":"2a3929e6867b567e3fdbf1b18b928c01",
+    "wof:geomhash":"2e941ff0f714fef3513125d2c0417c11",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -99,5 +99,5 @@
     6.46049,
     36.98974000000001
 ],
-  "geometry": {"coordinates":[6.46049,36.98974000000001],"type":"Point"}
+  "geometry": {"coordinates":[6.46049,36.98974],"type":"Point"}
 }

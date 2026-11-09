@@ -80,7 +80,7 @@
         "wk:page":"Tessala"
     },
     "wof:country":"DZ",
-    "wof:geomhash":"2e74f02211a2a22c223654a8070e693e",
+    "wof:geomhash":"3c29792b2ec3f3b5ef294669b51d4478",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -105,5 +105,5 @@
     -0.77251,
     35.24355999999999
 ],
-  "geometry": {"coordinates":[-0.77251,35.24355999999999],"type":"Point"}
+  "geometry": {"coordinates":[-0.77251,35.24356],"type":"Point"}
 }

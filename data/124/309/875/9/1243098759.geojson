@@ -44,7 +44,7 @@
         "wk:page":"Azelouaz"
     },
     "wof:country":"DZ",
-    "wof:geomhash":"4754fafb37edfc85b7b04f77c1fabe28",
+    "wof:geomhash":"f3494bec6873f5c65239c26d0df98d03",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -69,5 +69,5 @@
     9.47366,
     24.56412000000001
 ],
-  "geometry": {"coordinates":[9.47366,24.56412000000001],"type":"Point"}
+  "geometry": {"coordinates":[9.47366,24.56412],"type":"Point"}
 }

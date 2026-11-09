@@ -81,7 +81,7 @@
         "wk:page":"El-Flaye"
     },
     "wof:country":"DZ",
-    "wof:geomhash":"cfdbeaf5cac3b2138492bb4a8a359e7f",
+    "wof:geomhash":"53e24bf2112c465f65bf85033b569b87",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -106,5 +106,5 @@
     4.66364,
     36.60214000000001
 ],
-  "geometry": {"coordinates":[4.66364,36.60214000000001],"type":"Point"}
+  "geometry": {"coordinates":[4.66364,36.60214],"type":"Point"}
 }

@@ -75,7 +75,7 @@
         "wk:page":"A%C3%AFn_Yagout"
     },
     "wof:country":"DZ",
-    "wof:geomhash":"90443f35dc1e5bb0bc0e0e42c01df7c8",
+    "wof:geomhash":"a2198df75140695fc93bbd895931f9e1",
     "wof:hierarchy":[
         {
             "country_id":85632451,
@@ -98,5 +98,5 @@
     6.41644,
     35.77457000000001
 ],
-  "geometry": {"coordinates":[6.41644,35.77457000000001],"type":"Point"}
+  "geometry": {"coordinates":[6.41644,35.77457],"type":"Point"}
 }

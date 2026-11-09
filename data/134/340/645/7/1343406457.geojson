@@ -74,7 +74,7 @@
         "wk:page":"Tit%2C_Adrar"
     },
     "wof:country":"DZ",
-    "wof:geomhash":"62f5d9c64b5ae7ee0fed326e30165634",
+    "wof:geomhash":"909558bbb6beb351f1c7e980db3416b6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -99,5 +99,5 @@
     1.49214,
     26.93602000000001
 ],
-  "geometry": {"coordinates":[1.49214,26.93602000000001],"type":"Point"}
+  "geometry": {"coordinates":[1.49214,26.93602],"type":"Point"}
 }
