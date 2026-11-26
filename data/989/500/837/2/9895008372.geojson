@@ -1,0 +1,88 @@
+{
+  "id": 9895008372,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"2019-11-26",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.81345,34.21429,4.81345,34.21429",
+    "geom:latitude":34.21429,
+    "geom:longitude":4.81345,
+    "iso:country":"DZ",
+    "label:eng_x_preferred_longname":[
+        "Ouled Djellal Province"
+    ],
+    "mailwoman:sources":[
+        {
+            "citation":"Algeria raised ten delegated wilayas of the south to full wilayas in 2019, for a total of 58. ISO 3166-2:DZ lists them as DZ-49 to DZ-58.",
+            "property":"wof:placetype",
+            "url":"https://www.iso.org/obp/ui/#iso:code:3166:DZ"
+        },
+        {
+            "citation":"Wikidata, the item whose ISO 3166-2 code (P300) is this unit's: English and Arabic labels, item id and code. The GeoNames id is the unit's row in GeoNames admin1CodesASCII.txt.",
+            "property":"wof:name",
+            "url":"https://www.wikidata.org/wiki/Property:P300"
+        },
+        {
+            "citation":"Wikidata, the item whose ISO 3166-2 code (P300) is this unit's: English and Arabic labels, item id and code. The GeoNames id is the unit's row in GeoNames admin1CodesASCII.txt.",
+            "property":"wof:concordances",
+            "url":"https://www.wikidata.org/wiki/Property:P300"
+        },
+        {
+            "citation":"GeoNames first-level division 12226392: its point.",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12226392"
+        }
+    ],
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0623\u0648\u0644\u0627\u062f \u062c\u0644\u0627\u0644"
+    ],
+    "name:eng_x_preferred":[
+        "Ouled Djellal"
+    ],
+    "name:eng_x_variant":[
+        "Ouled Djellal Province"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12226392,
+        "iso:code":"DZ-51",
+        "iso:id":"DZ-51",
+        "wd:id":"Q77105251"
+    },
+    "wof:concordances_official":"iso:code",
+    "wof:country":"DZ",
+    "wof:geomhash":"6e54d7e69a5e3a9812acc4cb7b420227",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "region_id":9895008372
+        }
+    ],
+    "wof:id":9895008372,
+    "wof:lastmodified":1795732157,
+    "wof:name":"Ouled Djellal",
+    "wof:parent_id":85632451,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.81345,
+    34.21429,
+    4.81345,
+    34.21429
+],
+  "geometry": {"coordinates":[4.81345,34.21429],"type":"Point"}
+}

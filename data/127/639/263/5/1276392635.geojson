@@ -38,7 +38,7 @@
     "wof:belongsto":[
         102191573,
         85632451,
-        85670699
+        85670677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,13 +51,13 @@
             "continent_id":102191573,
             "country_id":85632451,
             "locality_id":1276392635,
-            "region_id":85670699
+            "region_id":85670677
         }
     ],
     "wof:id":1276392635,
-    "wof:lastmodified":1566583165,
+    "wof:lastmodified":1795732157,
     "wof:name":"Foum el Kheneg",
-    "wof:parent_id":85670699,
+    "wof:parent_id":85670677,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dz",
     "wof:superseded_by":[],

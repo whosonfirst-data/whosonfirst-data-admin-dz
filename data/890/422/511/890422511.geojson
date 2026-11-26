@@ -85,7 +85,7 @@
     "wof:belongsto":[
         102191573,
         85632451,
-        85670745
+        9895008378
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,13 +103,13 @@
             "continent_id":102191573,
             "country_id":85632451,
             "locality_id":890422511,
-            "region_id":85670745
+            "region_id":9895008378
         }
     ],
     "wof:id":890422511,
-    "wof:lastmodified":1690875541,
+    "wof:lastmodified":1795732157,
     "wof:name":"Djamaa",
-    "wof:parent_id":85670745,
+    "wof:parent_id":9895008378,
     "wof:placetype":"locality",
     "wof:population":52882,
     "wof:population_rank":8,

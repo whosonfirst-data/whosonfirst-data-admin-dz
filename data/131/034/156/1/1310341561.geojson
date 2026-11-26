@@ -36,7 +36,7 @@
     "wof:belongsto":[
         102191573,
         85632451,
-        85670731
+        9895008377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +50,13 @@
             "continent_id":102191573,
             "country_id":85632451,
             "locality_id":1310341561,
-            "region_id":85670731
+            "region_id":9895008377
         }
     ],
     "wof:id":1310341561,
-    "wof:lastmodified":1566583401,
+    "wof:lastmodified":1795732157,
     "wof:name":"El Mihan",
-    "wof:parent_id":85670731,
+    "wof:parent_id":9895008377,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dz",
     "wof:superseded_by":[],

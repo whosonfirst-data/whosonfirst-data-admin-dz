@@ -1,0 +1,89 @@
+{
+  "id": 9895008373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"2019-11-26",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.72001,29.47559,-2.72001,29.47559",
+    "geom:latitude":29.47559,
+    "geom:longitude":-2.72001,
+    "iso:country":"DZ",
+    "label:eng_x_preferred_longname":[
+        "B\u00e9ni Abb\u00e8s Province"
+    ],
+    "mailwoman:sources":[
+        {
+            "citation":"Algeria raised ten delegated wilayas of the south to full wilayas in 2019, for a total of 58. ISO 3166-2:DZ lists them as DZ-49 to DZ-58.",
+            "property":"wof:placetype",
+            "url":"https://www.iso.org/obp/ui/#iso:code:3166:DZ"
+        },
+        {
+            "citation":"Wikidata, the item whose ISO 3166-2 code (P300) is this unit's: English and Arabic labels, item id and code. The GeoNames id is the unit's row in GeoNames admin1CodesASCII.txt.",
+            "property":"wof:name",
+            "url":"https://www.wikidata.org/wiki/Property:P300"
+        },
+        {
+            "citation":"Wikidata, the item whose ISO 3166-2 code (P300) is this unit's: English and Arabic labels, item id and code. The GeoNames id is the unit's row in GeoNames admin1CodesASCII.txt.",
+            "property":"wof:concordances",
+            "url":"https://www.wikidata.org/wiki/Property:P300"
+        },
+        {
+            "citation":"GeoNames first-level division 12226385: its point.",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12226385"
+        }
+    ],
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0628\u0646\u064a \u0639\u0628\u0627\u0633"
+    ],
+    "name:eng_x_preferred":[
+        "B\u00e9ni Abb\u00e8s"
+    ],
+    "name:eng_x_variant":[
+        "B\u00e9ni Abb\u00e8s Province",
+        "Beni Abbes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12226385,
+        "iso:code":"DZ-52",
+        "iso:id":"DZ-52",
+        "wd:id":"Q21606902"
+    },
+    "wof:concordances_official":"iso:code",
+    "wof:country":"DZ",
+    "wof:geomhash":"bd85732ad845ecc340f033e85fd2f1d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "region_id":9895008373
+        }
+    ],
+    "wof:id":9895008373,
+    "wof:lastmodified":1795732157,
+    "wof:name":"B\u00e9ni Abb\u00e8s",
+    "wof:parent_id":85632451,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.72001,
+    29.47559,
+    -2.72001,
+    29.47559
+],
+  "geometry": {"coordinates":[-2.72001,29.47559],"type":"Point"}
+}

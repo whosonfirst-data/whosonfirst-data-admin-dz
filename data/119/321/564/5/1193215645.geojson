@@ -33,7 +33,7 @@
     "wof:belongsto":[
         102191573,
         85632451,
-        85670699
+        9895008373
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +46,13 @@
             "continent_id":102191573,
             "country_id":85632451,
             "locality_id":1193215645,
-            "region_id":85670699
+            "region_id":9895008373
         }
     ],
     "wof:id":1193215645,
-    "wof:lastmodified":1566583309,
+    "wof:lastmodified":1795732157,
     "wof:name":"Oulad Raffa",
-    "wof:parent_id":85670699,
+    "wof:parent_id":9895008373,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dz",
     "wof:superseded_by":[],

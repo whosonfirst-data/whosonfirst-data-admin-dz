@@ -33,7 +33,7 @@
     "wof:belongsto":[
         102191573,
         85632451,
-        85670827
+        9895008372
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +46,13 @@
             "continent_id":102191573,
             "country_id":85632451,
             "locality_id":1310367981,
-            "region_id":85670827
+            "region_id":9895008372
         }
     ],
     "wof:id":1310367981,
-    "wof:lastmodified":1566583367,
+    "wof:lastmodified":1795732157,
     "wof:name":"Bir Besbes",
-    "wof:parent_id":85670827,
+    "wof:parent_id":9895008372,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dz",
     "wof:superseded_by":[],

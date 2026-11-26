@@ -37,7 +37,7 @@
     "wof:belongsto":[
         102191573,
         85632451,
-        85670745
+        9895008378
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +50,13 @@
             "continent_id":102191573,
             "country_id":85632451,
             "locality_id":1243299887,
-            "region_id":85670745
+            "region_id":9895008378
         }
     ],
     "wof:id":1243299887,
-    "wof:lastmodified":1566583604,
+    "wof:lastmodified":1795732157,
     "wof:name":"Ourhlana",
-    "wof:parent_id":85670745,
+    "wof:parent_id":9895008378,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dz",
     "wof:superseded_by":[],

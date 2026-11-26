@@ -240,7 +240,7 @@
     "wof:belongsto":[
         102191573,
         85632451,
-        85670677
+        9895008370
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -264,13 +264,13 @@
             "continent_id":102191573,
             "country_id":85632451,
             "locality_id":890436901,
-            "region_id":85670677
+            "region_id":9895008370
         }
     ],
     "wof:id":890436901,
-    "wof:lastmodified":1690875545,
+    "wof:lastmodified":1795732157,
     "wof:name":"Timimoun",
-    "wof:parent_id":85670677,
+    "wof:parent_id":9895008370,
     "wof:placetype":"locality",
     "wof:population":49237,
     "wof:population_rank":7,

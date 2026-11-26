@@ -93,7 +93,7 @@
     "wof:belongsto":[
         102191573,
         85632451,
-        85670759
+        9895008376
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -109,13 +109,13 @@
             "continent_id":102191573,
             "country_id":85632451,
             "locality_id":1125768517,
-            "region_id":85670759
+            "region_id":9895008376
         }
     ],
     "wof:id":1125768517,
-    "wof:lastmodified":1690875563,
+    "wof:lastmodified":1795732157,
     "wof:name":"Tebesbest",
-    "wof:parent_id":85670759,
+    "wof:parent_id":9895008376,
     "wof:placetype":"locality",
     "wof:population":41091,
     "wof:population_rank":7,

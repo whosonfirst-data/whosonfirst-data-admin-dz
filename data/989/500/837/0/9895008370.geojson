@@ -1,0 +1,88 @@
+{
+  "id": 9895008370,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"2019-11-26",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.86559,29.72288,0.86559,29.72288",
+    "geom:latitude":29.72288,
+    "geom:longitude":0.86559,
+    "iso:country":"DZ",
+    "label:eng_x_preferred_longname":[
+        "Timimoun Province"
+    ],
+    "mailwoman:sources":[
+        {
+            "citation":"Algeria raised ten delegated wilayas of the south to full wilayas in 2019, for a total of 58. ISO 3166-2:DZ lists them as DZ-49 to DZ-58.",
+            "property":"wof:placetype",
+            "url":"https://www.iso.org/obp/ui/#iso:code:3166:DZ"
+        },
+        {
+            "citation":"Wikidata, the item whose ISO 3166-2 code (P300) is this unit's: English and Arabic labels, item id and code. The GeoNames id is the unit's row in GeoNames admin1CodesASCII.txt.",
+            "property":"wof:name",
+            "url":"https://www.wikidata.org/wiki/Property:P300"
+        },
+        {
+            "citation":"Wikidata, the item whose ISO 3166-2 code (P300) is this unit's: English and Arabic labels, item id and code. The GeoNames id is the unit's row in GeoNames admin1CodesASCII.txt.",
+            "property":"wof:concordances",
+            "url":"https://www.wikidata.org/wiki/Property:P300"
+        },
+        {
+            "citation":"GeoNames first-level division 12226384: its point.",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12226384"
+        }
+    ],
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0648\u0644\u0627\u064a\u0629 \u062a\u064a\u0645\u064a\u0645\u0648\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Timimoun"
+    ],
+    "name:eng_x_variant":[
+        "Timimoun Province"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12226384,
+        "iso:code":"DZ-49",
+        "iso:id":"DZ-49",
+        "wd:id":"Q21606903"
+    },
+    "wof:concordances_official":"iso:code",
+    "wof:country":"DZ",
+    "wof:geomhash":"91767c065ad0b86c92005bd38da9b757",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "region_id":9895008370
+        }
+    ],
+    "wof:id":9895008370,
+    "wof:lastmodified":1795732157,
+    "wof:name":"Timimoun",
+    "wof:parent_id":85632451,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.86559,
+    29.72288,
+    0.86559,
+    29.72288
+],
+  "geometry": {"coordinates":[0.86559,29.72288],"type":"Point"}
+}

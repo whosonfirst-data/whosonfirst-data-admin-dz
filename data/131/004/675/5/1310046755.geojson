@@ -33,7 +33,7 @@
     "wof:belongsto":[
         102191573,
         85632451,
-        85670677
+        9895008370
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +46,13 @@
             "continent_id":102191573,
             "country_id":85632451,
             "locality_id":1310046755,
-            "region_id":85670677
+            "region_id":9895008370
         }
     ],
     "wof:id":1310046755,
-    "wof:lastmodified":1566583393,
+    "wof:lastmodified":1795732157,
     "wof:name":"Oulad Mahmoud",
-    "wof:parent_id":85670677,
+    "wof:parent_id":9895008370,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dz",
     "wof:superseded_by":[],

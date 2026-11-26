@@ -1,0 +1,90 @@
+{
+  "id": 9895008378,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"2019-11-26",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.65989,33.91588,5.65989,33.91588",
+    "geom:latitude":33.91588,
+    "geom:longitude":5.65989,
+    "iso:country":"DZ",
+    "label:eng_x_preferred_longname":[
+        "El M'Ghair Province"
+    ],
+    "mailwoman:sources":[
+        {
+            "citation":"Algeria raised ten delegated wilayas of the south to full wilayas in 2019, for a total of 58. ISO 3166-2:DZ lists them as DZ-49 to DZ-58.",
+            "property":"wof:placetype",
+            "url":"https://www.iso.org/obp/ui/#iso:code:3166:DZ"
+        },
+        {
+            "citation":"Wikidata, the item whose ISO 3166-2 code (P300) is this unit's: English and Arabic labels, item id and code. The GeoNames id is the unit's row in GeoNames admin1CodesASCII.txt.",
+            "property":"wof:name",
+            "url":"https://www.wikidata.org/wiki/Property:P300"
+        },
+        {
+            "citation":"Wikidata, the item whose ISO 3166-2 code (P300) is this unit's: English and Arabic labels, item id and code. The GeoNames id is the unit's row in GeoNames admin1CodesASCII.txt.",
+            "property":"wof:concordances",
+            "url":"https://www.wikidata.org/wiki/Property:P300"
+        },
+        {
+            "citation":"GeoNames first-level division 12226391: its point.",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12226391"
+        }
+    ],
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u0645\u063a\u064a\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "El M'Ghair"
+    ],
+    "name:eng_x_variant":[
+        "El M'Ghair Province",
+        "El Mghair",
+        "El Meghaier"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12226391,
+        "iso:code":"DZ-57",
+        "iso:id":"DZ-57",
+        "wd:id":"Q77103173"
+    },
+    "wof:concordances_official":"iso:code",
+    "wof:country":"DZ",
+    "wof:geomhash":"7abb37df2b85b708fa2fefc39060cc22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "region_id":9895008378
+        }
+    ],
+    "wof:id":9895008378,
+    "wof:lastmodified":1795732157,
+    "wof:name":"El M'Ghair",
+    "wof:parent_id":85632451,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.65989,
+    33.91588,
+    5.65989,
+    33.91588
+],
+  "geometry": {"coordinates":[5.65989,33.91588],"type":"Point"}
+}

@@ -36,7 +36,7 @@
     "wof:belongsto":[
         102191573,
         85632451,
-        85670735
+        9895008374
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +50,13 @@
             "continent_id":102191573,
             "country_id":85632451,
             "locality_id":1327369867,
-            "region_id":85670735
+            "region_id":9895008374
         }
     ],
     "wof:id":1327369867,
-    "wof:lastmodified":1566582693,
+    "wof:lastmodified":1795732157,
     "wof:name":"El Barka",
-    "wof:parent_id":85670735,
+    "wof:parent_id":9895008374,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dz",
     "wof:superseded_by":[],

@@ -291,7 +291,7 @@
     "wof:belongsto":[
         102191573,
         85632451,
-        85670759
+        9895008376
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -315,13 +315,13 @@
             "continent_id":102191573,
             "country_id":85632451,
             "locality_id":890440141,
-            "region_id":85670759
+            "region_id":9895008376
         }
     ],
     "wof:id":890440141,
-    "wof:lastmodified":1690875540,
+    "wof:lastmodified":1795732157,
     "wof:name":"Touggourt",
-    "wof:parent_id":85670759,
+    "wof:parent_id":9895008376,
     "wof:placetype":"locality",
     "wof:population":49044,
     "wof:population_rank":7,
